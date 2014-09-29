@@ -15,11 +15,11 @@ your RSS feed to display a full text version of a site's feed to those who have 
 
 Dual RSS Feed Key is most useful when a WordPress site is configured to display a feed consisting of summaries rather than the full text of each article. This option is configured under '''Settings -> Reading''' in WordPress.
 
-![](https://github.com/github/washingtonstateuniversity/wsuwp-dual-rss-feed-key/blob/master/repo-assets/screenshot-001.png)
+![](https://github.com/washingtonstateuniversity/wsuwp-dual-rss-feed-key/blob/master/repo-assets/screenshot-001.png)
 
 Once Dual RSS Feed Key is installed, an option is available to create a second, full text feed with the addition of a secret key.
 
-![](https://github.com/github/washingtonstateuniversity/wsuwp-dual-rss-feed-key/blob/master/repo-assets/screenshot-002.png)
+![](https://github.com/washingtonstateuniversity/wsuwp-dual-rss-feed-key/blob/master/repo-assets/screenshot-002.png)
 
 Create a secret key of your choosing and type it in the available input box. Once saved, a full text feed will be available for anyone that is given the address with this secret key.
 
